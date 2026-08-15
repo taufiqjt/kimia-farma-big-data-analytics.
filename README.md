@@ -33,7 +33,7 @@ Sebagai Big Data Analytics Intern, tugas yang dikerjakan meliputi:
 
 ## 📊 Tabel Analisa (`kf_analysis`)
 
-Tabel `kf_analysis` dibuat dengan meng-*join* ketiga tabel (`kf_final_transaction`, `kf_kantor_cabang`, `kf_product`) dan menghasilkan kolom-kolom berikut:
+Tabel `kf_analysis` dibuat dengan melakukan *join* ketiga tabel (`kf_final_transaction`, `kf_kantor_cabang`, `kf_product`) dan menghasilkan kolom-kolom berikut:
 
 - `transaction_id`, `date`, `branch_id`, `branch_name`, `kota`, `provinsi`, `rating_cabang`
 - `customer_name`, `product_id`, `product_name`, `actual_price`, `discount_percentage`
