@@ -53,7 +53,7 @@ Dashboard Performance Analytics dibuat di Google Looker Studio berdasarkan tabel
 - Top 5 Cabang dengan Rating Tertinggi namun Rating Transaksi Terendah
 - Peta Geografis Total Profit per Provinsi
 
-🔗 Link Dashboard: [*(https://datastudio.google.com/reporting/70cd43d2-9c75-4df9-8d23-20a90f67f138)*]
+🔗 Link Dashboard: [*https://datastudio.google.com/reporting/70cd43d2-9c75-4df9-8d23-20a90f67f138*]
 
 🔗 Link Video Presentasi: *(tambahkan link YouTube/Google Drive Anda di sini)*
 
