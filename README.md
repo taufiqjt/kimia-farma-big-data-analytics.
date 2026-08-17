@@ -55,7 +55,7 @@ Dashboard Performance Analytics dibuat di Google Looker Studio berdasarkan tabel
 
 🔗 Link Dashboard: [*https://datastudio.google.com/reporting/70cd43d2-9c75-4df9-8d23-20a90f67f138*]
 
-🔗 Link Video Presentasi: *(tambahkan link YouTube/Google Drive Anda di sini)*
+🔗 Link Video Presentasi: [*https://drive.google.com/file/d/1iDwOF39H5ig72DgppDpokOGtGcC1ae1s/view?usp=sharing*]
 
 ## 👤 Author
 
